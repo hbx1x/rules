@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        ".www.hm08.lol",
+        ".www.hm07.lol",
+        ".www.hm06.lol"
+        ".wnacg.com",
+        ".www.hm10.lol",
+        ".www.hm09.lol"
+      ],
+      "domain_suffix": [
+        ".www.hm08.lol",
+        ".www.hm07.lol",
+        ".www.hm06.lol"
+        ".wnacg.com",
+        ".www.hm10.lol",
+        ".www.hm09.lol"
+      ]
+    }
+  ]
+}
